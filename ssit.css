@@ -1,0 +1,266 @@
+.head{
+    background-color: #343a40;
+    height: 130px;
+    color: white;
+}
+
+.head img{
+      width: 100px;
+      height: 100px;
+      margin-inline: 221px;
+      margin-top: 10px;
+}
+
+.head h1{
+    text-align: center;
+    margin-top: -70px;
+}
+
+
+
+.main{
+    text-align: center;
+    background-image: url("http://www.ssit.co.in/img/landing/hero-image.jpg");
+    height: 680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    text-align: center;
+    margin-top: -680px;
+    height: 45px;
+    position: sticky;
+    top: 0;
+    background: rgba(0,0,0,.8);
+    border-top: 1px solid rgba(255,255,255,.2);
+    padding: 15px;
+}
+
+.nav a {
+    text-decoration: none;
+    color:white;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin-inline: 20px;
+    padding: 10px;
+}
+
+.nav a:hover{
+    color: black;
+    background-color: rgba(245, 245, 245, 0.876);
+    padding: 5px;
+}
+.navbg{
+    height: 100px;
+    margin-top: -140px;
+    background-color: rgba(128, 128, 128, 0.336);
+}
+
+.nav2{
+    text-align: center;
+    margin-top: 490px;
+    height: 100px;
+    background-color:rgba(20, 19, 19, 0.945);
+
+}
+
+.nav3{
+    margin-top: -75px;
+    text-align: center;
+}
+
+.nav3 a{
+    color:aqua;
+    text-decoration: none;
+    font-size: larger;
+    font-size: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-inline: 20px;
+    padding: 10px;
+    
+}
+
+
+.dis{
+    text-align: left;
+    width: 506px;
+    margin-left: 30px;
+    padding: 60px;
+}
+
+.dis h1{
+    font-style: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.dis p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.avcr{
+    margin-top: -300px;
+    text-align:left;
+    margin-left: 740px;
+    width: 800px
+}
+
+.avcr li{
+    margin: 20px;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    
+}
+
+.avcr h2{
+    width: 200px;
+    padding: 15px;
+    margin-left: 100px;
+}
+
+.nav3 a:hover{
+    background-color: rgba(146, 134, 129, 0.767);
+    color: black;
+}
+
+.ds{
+    background-color: orange;
+    margin-top:40px;
+}
+
+.dic{
+    background-color: black;
+    height: 900px;
+}
+
+.dic img{
+   width: 300px;
+   height: 300px;
+   margin: 50px;
+}
+
+.dic h1{
+    color: orange;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 600px;
+}
+
+.dic p{
+    color:white;
+    font-weight: bold;
+    width: 500px;
+    text-align: left;
+    font-size: larger;
+    margin-left: 650px;
+}
+
+.cn{
+    margin-top: -770px;
+}
+
+.ist{
+    height: 580px;
+    background-image: url(http://www.ssit.co.in/img/landing/about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgist{
+    height: 580px;
+    background-color: rgba(255, 166, 0, 0.541);
+    margin-top: -580px;
+}
+.istinfo{
+    width: 500px;
+    text-align: left;
+    margin-top: -582px;
+    margin-left: 670px;
+}
+
+.istinfo h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 290px;
+    height: 40px;
+}
+.istinfo p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+}
+.fess img{
+    width: 100%;
+}
+
+.implink{
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 150px;
+}
+.implink2{
+    margin-left: 700px;
+    width: 150px;
+    margin-top: -240px;
+}
+.implink a{
+    margin: 15px;
+}
+.implink2 a{
+    margin: 15px;
+}
+.implink3 a{
+    margin: 15px;
+}
+.implink a:hover{
+    color: #F1A501;
+}
+.implink2 a:hover{
+    color: #F1A501;
+}
+.implink3 a:hover{
+    color: #F1A501;
+}
+.loc{
+    background-color: #343a40;
+    height: 550px;
+    margin-top: -25px;
+ }
+ .loc h1{
+    text-align: center;
+    color: #F1A501;
+}
+.implink a{
+    text-decoration: none;
+   
+    color: white;
+ }
+ .implink2 a{
+    text-decoration: none;
+   
+    color: white;
+}
+.implink3{
+    margin-left: 75%;
+    margin-top: -275px;
+    width: 150px;
+    
+}
+.implink3 a{
+    text-decoration: none;
+   
+    color: white;
+}
+.fot2 h3{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-size: x-large;
+
+}
+.fot2 strong{
+    color: rgba(228, 11, 174, 0.877);
+}
